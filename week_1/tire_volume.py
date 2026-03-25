@@ -55,4 +55,4 @@ while user_need == "yes":
     elif user_need == "no":
         print("Thanks for having us!")
     else:
-        print("Sorry, I didn't get that. The program will stop. Thanks for have us!")
+        print("Sorry, I didn't get that. The program will stop. Thanks for having us!")
